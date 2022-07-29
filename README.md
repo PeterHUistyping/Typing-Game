@@ -1,6 +1,12 @@
 # Typing-Game
  C Project《超级程序员》游戏开发
+
+### 环境配置 Environment Configuration
+使用easyX函数库
+https://easyx.cn/
+
 ### 要求 Requiremnet
+
 游戏窗口中绘制标准键盘布局。
 游戏玩家根据提示（例如在上述窗口中某个按键高亮），则按下键盘中的按键。按对则提示下一个字母，按错则继续等待按对。
 
@@ -13,7 +19,7 @@
 可以设计计分规则。
 自行对游戏模式进行扩展，设计更有意思的模式。
 
-使用easyX函数库
+
 
 ### 界面 Interface
 KEYBOARD
