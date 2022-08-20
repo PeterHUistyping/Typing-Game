@@ -8,6 +8,8 @@ https://easyx.cn/
 ### Requiremnet
 
 Draws a standard keyboard layout in the game window. \
+![Interface](Photo/Interface.png)
+
 The gamer presses a key in the keyboard when prompted, such as highlighting a key in the window above. Pressing the right one prompts the next letter, and pressing the wrong button, the program waits for the right one to be pressed.
 
 The key hints in the game should be a meaningful C program. For example, outputing hello world,  solving Pi and so on.\
@@ -20,7 +22,6 @@ Scoring rules can be designed.
 
 
 ### Interface
-![Interface](Photo/Interface.png)
 
 KEYBOARD
 ![keyboard](Photo/keyboard.png)
