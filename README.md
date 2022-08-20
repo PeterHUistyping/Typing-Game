@@ -1,28 +1,25 @@
 # Typing-Game
- C Project《超级程序员》游戏开发
+ C Project *Super Programmer* Game Development
 
-### 环境配置 Environment Configuration
-使用easyX函数库
+### Environment Configuration
+Using easyX
 https://easyx.cn/
 
-### 要求 Requiremnet
+### Requiremnet
 
-游戏窗口中绘制标准键盘布局。\
-游戏玩家根据提示（例如在上述窗口中某个按键高亮），则按下键盘中的按键。按对则提示下一个字母，按错则继续等待按对。
+Draws a standard keyboard layout in the game window. \
+The gamer presses a key in the keyboard when prompted, such as highlighting a key in the window above. Pressing the right one prompts the next letter, and pressing the wrong button, the program waits for the right one to be pressed.
 
-游戏中的按键提示，应该是一段有意义的C程序。例如输出hello world，例如求pi程序等等。\
-应该有一个界面让玩家选择要练习哪个程序。
+The key hints in the game should be a meaningful C program. For example, outputing hello world,  solving Pi and so on.\
+There should be an interface for the player to choose which program to practice.
 
-关于游戏计分，设计成：\
-速度模式：字符从天而降，如果不及时按对按键，此字符将落到地上，砸掉一个缺口。当缺口足够多时，就算为失败。\
-可以设计某个字符带有奖励，按对此字符，则会自动补上部分缺口。\
-可以设计计分规则。
-
-自行对游戏模式进行扩展，设计更有意思的模式。
+Regarding the game, it is designed to contain:\
+Speed mode: The character falls from the sky, if you do not press the key in time, the character will fall to the ground, smashing a gap. When there are too much gaps, it is considered a failure.\
+You can design a character with a reward, and pressing this one will automatically fill in some gaps.\
+Scoring rules can be designed.
 
 
-
-### 界面 Interface
+### Interface
 ![Interface](Photo/Interface.png)
 
 KEYBOARD
@@ -31,7 +28,7 @@ KEYBOARD
 Menu
 ![KEYBOARD-RAINBOW](Photo/KEYBOARD-RAINBOW.png)
 
-### 草图 Draft
+### Draft
 Menu
 ![Menu](Photo/Menu.png)
 
