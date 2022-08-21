@@ -5,7 +5,7 @@
 Using easyX
 https://easyx.cn/
 
-### Requiremnet
+### Requirement
 
 Draws a standard keyboard layout in the game window. \
 ![Interface](Photo/Interface.png)
